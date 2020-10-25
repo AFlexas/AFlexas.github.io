@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Mis motivos por los que estoy en este fp
 
-You can use the [editor on GitHub](https://github.com/AFlexas/AFlexas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bueno, pues yo estoy en este FP porque no tenia ni idea de que estudiar, nada me llamaba realmente la atención y este "mundo" es lo que mas curiosidad me ha despertado de alguna manera debido a las infinitas possibilidades que puede ofrecer y porque mis "hobbies" se mueven por este ambiente, ademàs de un futuro laboral bastante positivo.
 
-### Markdown
+*Mira que bonita es esta cursiva.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***Y mira ahora esta negrita que chula.***
 
-```markdown
-Syntax highlighted code block
+1. Probando
+2. las
+3. listas
 
-# Header 1
-## Header 2
-### Header 3
+- Las
+- listas
+- desordenadas
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AFlexas/AFlexas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![github!](https://www.enriquedans.com/wp-content/uploads/2018/06/GitHub-Octocat.jpg)
